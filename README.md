@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Splicer App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📌 Description
 
-## Available Scripts
+This Application is based on personal scepticism. There have been people who have believed that there is what they call a "Bible Code," where every other x-number of letter can be extracted from the Bible and placed together to create a message that can predict world events because it was, according to them, pre-destined and placed in the words of the Bible.
 
-In the project directory, you can run:
+The KJV Bible has been found to have many Poetic and Numerological phenomena. This application is to be able to select thes x-number of letter from the KJV Bible. I believe the original "Bible Code" was based on Hebrew and Greek texts, but I want to see if something can be found in the KJV.
 
 ### `npm start`
 
