@@ -53,3 +53,10 @@
 .text-processor button:hover {
   background-color: #0056b3;
 }
+
+@media (max-width: 768px) {
+  .text-processor {
+    margin: 20px;
+    padding: 25px;
+  }
+}

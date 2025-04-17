@@ -15,7 +15,7 @@ const TextProcessor = () => {
 
   return (
     <div className="text-processor">
-      <h2>Text Processor</h2>
+      <h2>Text Splicer</h2>
 
       <label htmlFor="text-input">Enter Text:</label>
       <textarea
